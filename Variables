@@ -12,3 +12,14 @@ For example:=>
               int rollno;
               float marks;
               char ch;
+👉..Rules to define a variable..👈
+__________________________________
+
+⭐.The first letter of a variable should
+be alphabet or underscore (_).
+⭐.The first letter of variable should not
+be digit.
+⭐. After character it may be combination of 
+alphabets and digits.
+⭐.Blank spaces are not allowed in variable name.
+⭐. variable name should not be a keyword.
