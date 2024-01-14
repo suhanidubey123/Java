@@ -1,0 +1,14 @@
+     👉...Variable...👈
+____________________________
+
+It is name of storage space which is use
+to store data.It's value may be change.
+It always contains last value to stored to it.
+
+It is always declared with data type.
+
+For example:=>
+              int a;
+              int rollno;
+              float marks;
+              char ch;
