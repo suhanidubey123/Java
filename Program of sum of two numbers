@@ -1,0 +1,16 @@
+//write a java program to sum of two 
+numbers....
+✍️✍️..
+
+Public class ABC{
+public static void main (String[] args)
+{
+  int x,y,z;
+  x=10;
+  y=20;
+  z=x+y;
+System.out.println("value of x="+x)
+System.out.println("value of y="+y);
+System.out.println("value of z="+z);
+}
+}
