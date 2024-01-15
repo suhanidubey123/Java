@@ -1,0 +1,23 @@
+     👉..Data types..👈
+______________________________
+✍️✍️..Data types specify the different sizes
+and values that can be stored in the variable.
+
+There are two types of data types in java.
+(1). primitive
+(2).non-primitive
+
+1). primitive datatypes:=>
+___________________________
+✨.. Primitive data types are building blocks 
+of the data manipulation.
+These are the most basic data types available 
+in java programming language.
+⭐.boolean
+⭐.byte 
+⭐.char
+⭐.int
+⭐.float
+⭐.long
+⭐. double
+⭐.short
