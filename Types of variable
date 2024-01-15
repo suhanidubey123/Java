@@ -1,0 +1,61 @@
+  👉Types of variable..👈
+____________________________
+____________________________
+✨..There are three types of variable.
+(1).local variable
+(2).Instance variable
+(3).Static variable
+
+(1). Local variables:=>
+_________________________
+✍️✍️..A variable declared inside the body 
+of the methods is called local variables.
+You can use this variable only within that
+method.A local variable can not be define
+with static keyboard.
+For example:=>
+_______________
+public class abc{
+public static void main(String[] args)
+{
+int a;
+a=10;// this is local variable
+System.out.println("value of a="+a);
+}
+}
+
+(2). Instance variable:=>
+__________________________
+✍️✍️..A variable which declare inside the
+class but outside the body of method is called 
+instance variable.It is not declare as static.
+For example:=>
+________________
+public class abc{
+int x=100;// instance variable 
+public void display ()
+{
+System.out.println("value of x="+x);
+}
+public static void main(String arg[])
+{
+abc obj=new abc();
+obj.display();}}
+
+(3). Static variable:=>
+_________________________
+✍️✍️..A variable is declared in class but outside 
+the body of the method or constructor or block is
+called static variable.Static variable is stored in 
+the static memory.Static variables are created when
+the program starts and destroyed and when the
+program stocks.
+For example:=>
+________________
+public class abc{
+static string name="Hello this is suhani";
+public static void main(String[] args)
+{
+System.out.println(abc.name);
+}
+}
