@@ -1,0 +1,19 @@
+  👉...Type casting...👈
+____________________________
+
+1).small from big type casting
+_________________________________
+✨..int a=10;
+float b=a;
+System.out.println("value of a="+a);
+System.out.println("value of b="+b);
+
+2).Big from small type casting
+_________________________________
+✨.. int a;
+double c=13.576;
+a=(int)c;
+System.out.println("value of a="+a);
+System.out.println("value of c="+c);
+}
+}
